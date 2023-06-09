@@ -1,0 +1,4947 @@
+{
+	"labs": [
+		"UB40203",
+		"UB41001",
+		"UB71103",
+		"UB40103",
+		"UB40101",
+		"UB41003",
+		"UB71101",
+		"UB41103",
+		"UB80103",
+		"UB80102",
+		"UB71102",
+		"UB41201",
+		"UB80403",
+		"UB80404",
+		"UB41101",
+		"UB41203",
+		"UB40403",
+		"UB50201",
+		"UB70304",
+		"UB41102",
+		"UB80101",
+		"UB41002",
+		"UB41202",
+		"UB70804",
+		"UB71309",
+		"UB80910",
+		"UB40401",
+		"UB50402",
+		"UB41301",
+		"UB50202",
+		"UB50403",
+		"UB50603",
+		"UB60809",
+		"UB60603",
+		"UB21005"
+	],
+	"schedule": [
+		{
+			"courseCode": "ARC102",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "4.5",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC201",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "6.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100204", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100204", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC202",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "6.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100401", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100401", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "12:05 PM", "room": "UB100401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC301",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "8.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100202", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100202", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC302",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "8.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC401",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "10.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100204", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100204", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "05:05 PM", "room": "UB100202", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC402",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "10.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100401", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "05:05 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC501",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "12.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "05:05 PM", "room": "UB100202", "type": "Theory" },
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100402", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100402", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC502",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "12.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100501", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "05:05 PM", "room": "UB100202", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100501", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100501", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ARC503",
+			"program": "ARC",
+			"faculty": "TBA",
+			"credit": "12.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100502", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "05:05 PM", "room": "UB100203", "type": "Theory" },
+				{ "day": "Th", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100502", "type": "Theory" },
+				{ "day": "Tu", "start": "09:00 AM", "end": "01:10 PM", "room": "UB100502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE101",
+			"program": "CSE",
+			"faculty": "ASA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE101",
+			"program": "CSE",
+			"faculty": "ASA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE101",
+			"program": "CSE",
+			"faculty": "ASA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE101",
+			"program": "CSE",
+			"faculty": "ASA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE101",
+			"program": "CSE",
+			"faculty": "MJB",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "DFD",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40101", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "DFD",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "HQU",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "SBB",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "HQU",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "SBB",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "NZN",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "NZN",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "MJB",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "MJB",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "FLA",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "FLA",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "FLA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "MSI",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "MSI",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "MJB",
+			"credit": "3.0",
+			"section": "19",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80403", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "20",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TAW",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "22",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "23",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "24",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "25",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "26",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "27",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "28",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70501", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "29",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "30",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "31",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE110",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "32",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41203", "type": "Lab" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZAD",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZAD",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "DFD",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "TAW",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "HQU",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40101", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "HQU",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SBB",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70501", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SBB",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "DPU",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "DPU",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "NZF",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "NZF",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SFQ",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SFQ",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "MTT",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70301", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "MTT",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70301", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "AHU",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "AHU",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "PRN",
+			"credit": "3.0",
+			"section": "19",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "PRN",
+			"credit": "3.0",
+			"section": "20",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZMD",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZMD",
+			"credit": "3.0",
+			"section": "22",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "RAD",
+			"credit": "3.0",
+			"section": "23",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "TAW",
+			"credit": "3.0",
+			"section": "24",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "TAW",
+			"credit": "3.0",
+			"section": "25",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "AHU",
+			"credit": "3.0",
+			"section": "26",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "IKW",
+			"credit": "3.0",
+			"section": "27",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "RIM",
+			"credit": "3.0",
+			"section": "28",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "RIM",
+			"credit": "3.0",
+			"section": "29",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SHRR",
+			"credit": "3.0",
+			"section": "30",
+			"days": [
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70502", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SHRR",
+			"credit": "3.0",
+			"section": "31",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70502", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80403", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "TMD",
+			"credit": "3.0",
+			"section": "32",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "TMD",
+			"credit": "3.0",
+			"section": "33",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZTB",
+			"credit": "3.0",
+			"section": "34",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "ZTB",
+			"credit": "3.0",
+			"section": "35",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SAD",
+			"credit": "3.0",
+			"section": "36",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SAD",
+			"credit": "3.0",
+			"section": "37",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "DPU",
+			"credit": "3.0",
+			"section": "38",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SAD",
+			"credit": "3.0",
+			"section": "39",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80403", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE111",
+			"program": "CSE",
+			"faculty": "SAD",
+			"credit": "3.0",
+			"section": "40",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ABW",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "NZF",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80403", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "NZF",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80403", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ZMD",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ZMD",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "PRN",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "MTY",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "AJA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "AJA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80102", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "MNY",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "RAK",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "RAK",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "RAK",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "RAK",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "JNM",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40103", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "19",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80403", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "MTY",
+			"credit": "3.0",
+			"section": "20",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "MTY",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71101", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "MTY",
+			"credit": "3.0",
+			"section": "22",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80404", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "23",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80103", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ABW",
+			"credit": "3.0",
+			"section": "24",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "25",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ZAD",
+			"credit": "3.0",
+			"section": "26",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ZAD",
+			"credit": "3.0",
+			"section": "27",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "28",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "29",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80403", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "30",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "31",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "PRN",
+			"credit": "3.0",
+			"section": "32",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "33",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40403", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ANL",
+			"credit": "3.0",
+			"section": "34",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "ANL",
+			"credit": "3.0",
+			"section": "35",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE220",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "36",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "FGZ",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "FGZ",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MZU",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MZU",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "SHF",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "SHF",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MIBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MIBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MIBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MIBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "MHB",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "ZTB",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "ZTB",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE221",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50201", "type": "Lab" },
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "19",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70304", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "20",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB70304", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41102", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "22",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "23",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41002", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "24",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41002", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE250",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "25",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41202", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41102", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB70804", "type": "Lab" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB70804", "type": "Lab" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41002", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB70804", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB70804", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE251",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB70804", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "AQZ",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB70304", "type": "Lab" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70501", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "AQZ",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB70304", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "AQZ",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB70304", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "NRT",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB70304", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "DZK",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB70304", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "DZK",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB70304", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE260",
+			"program": "CSE",
+			"faculty": "RKS",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB70304", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE310",
+			"program": "CSE",
+			"faculty": "ADR",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80404", "type": "Lab" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "ACH",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "ACH",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "NTR",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "NTR",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "FLA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80404", "type": "Lab" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE321",
+			"program": "CSE",
+			"faculty": "ACH",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "RRH",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "ABW",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "ABW",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "RRH",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "AQU",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "AQU",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "AQU",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "AMK",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "ZWB",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "ZWB",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70701", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "ZWB",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE330",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB50303", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71309", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB50303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "RRH",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80403", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "RKS",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "ZHS",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41001", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "ZHS",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "RRH",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41103", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "RKS",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE341",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41002", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41002", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41002", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41002", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB70304", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41202", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41102", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41202", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41202", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41202", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE350",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41202", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "FNK",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "FNK",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "KHR",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "KHR",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE360",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80401", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "DPU",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "MTT",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80404", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "MTT",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30303", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80404", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "NNC",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "NNC",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "NNC",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71101", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "NNC",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "DZK",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41103", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "ANL",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71101", "type": "Lab" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE370",
+			"program": "CSE",
+			"faculty": "ANL",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80402", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE391",
+			"program": "CSE",
+			"faculty": "ADR",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "MNY",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80102", "type": "Lab" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "SRF",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "SRF",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "SRF",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "WRA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40203", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "WRA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE420",
+			"program": "CSE",
+			"faculty": "WRA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70501", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "ARF",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "ARF",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "SFQ",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "SFQ",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "SRJ",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "SRJ",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "SKZ",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE421",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70702", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70702", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "TRZ",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "TRZ",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "MZH",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB71002", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "MZH",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB71002", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "ZHS",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "ZHS",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41003", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "MNB",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "MNB",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41101", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE422",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "MZU",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "MZU",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "TMD",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "TMD",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40902", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "AJA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "AJA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "IBR",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "IBR",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70502", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70502", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "DMH",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE423",
+			"program": "CSE",
+			"faculty": "DMH",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE424",
+			"program": "CSE",
+			"faculty": "AAR",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" },
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80910", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE427",
+			"program": "CSE",
+			"faculty": "MZH",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE428",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE446",
+			"program": "CSE",
+			"faculty": "SDF",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB80103", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE447",
+			"program": "CSE",
+			"faculty": "MIH",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71103", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41201", "type": "Lab" },
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30102", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41201", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE460",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30202", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB41203", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "RAD",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "RAD",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "RAD",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB30401", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "TIK",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "TIK",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB71102", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "KHR",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE461",
+			"program": "CSE",
+			"faculty": "KHR",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB81401", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71102", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB81401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "AQU",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40101", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "MIH",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "MIH",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70402", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "MIH",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70402", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40103", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "AME",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80404", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "AME",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41203", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70701", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41101", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE471",
+			"program": "CSE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40902", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71102", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE472",
+			"program": "CSE",
+			"faculty": "JNM",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41001", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE481",
+			"program": "CSE",
+			"faculty": "SDS",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB40103", "type": "Lab" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80202", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE484",
+			"program": "CSE",
+			"faculty": "JNM",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70302", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80910", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "CSE489",
+			"program": "CSE",
+			"faculty": "ADR",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80302", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB80404", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "CSE490",
+			"program": "CSE",
+			"faculty": "SDF",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70701", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41203", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "ECE103",
+			"program": "ECE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40401", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40401", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "ECE447",
+			"program": "ECE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB50301", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50402", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB50301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE103",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40401", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41301", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE103",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40401", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41301", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE103",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71309", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41301", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE103",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB40401", "type": "Lab" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40401", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40401", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE308",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB50202", "type": "Lab" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB50303", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB50303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE385",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB50301", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB71309", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB50301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE421",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50403", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB50302", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB50302", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE431",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB50301", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB50603", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB50301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE447",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB50301", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB50301", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB50402", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "EEE472",
+			"program": "EEE",
+			"faculty": "TRZ",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE472",
+			"program": "EEE",
+			"faculty": "TRZ",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB41003", "type": "Lab" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30301", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "EEE476",
+			"program": "EEE",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB80102", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB30303", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT091",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40904", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT091",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40904", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40904", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT091",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT091",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "04",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80203", "type": "Theory" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80203", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80203", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "05",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "06",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80204", "type": "Theory" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB80204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT092",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "0.0",
+			"section": "11",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30501", "type": "Theory" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30501", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30501", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB30501", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Sa", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40201", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "MAT120",
+			"program": "MAT",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" },
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB40201", "type": "Theory" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB70503", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "05:00 PM", "end": "06:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "05:00 PM", "end": "06:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Mo", "start": "05:00 PM", "end": "06:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "05:00 PM", "end": "06:20 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB10104", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Sa", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Th", "start": "03:30 PM", "end": "04:50 PM", "room": "UB10104", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "19",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "20",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "21",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "22",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "23",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "24",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "25",
+			"days": [
+				{ "day": "Su", "start": "05:00 PM", "end": "06:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Tu", "start": "05:00 PM", "end": "06:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "26",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "27",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "28",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "29",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "30",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "31",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "32",
+			"days": [
+				{ "day": "Mo", "start": "05:00 PM", "end": "06:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "We", "start": "05:00 PM", "end": "06:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "33",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60809", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "34",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "35",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY111",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "36",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB60603", "type": "Lab" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB41403", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "01",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Su", "start": "08:00 AM", "end": "09:20 AM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "09:20 AM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "02",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Su", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "03",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Su", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "04",
+			"days": [
+				{ "day": "Su", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "We", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "05",
+			"days": [
+				{ "day": "Su", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "We", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "06",
+			"days": [
+				{ "day": "Su", "start": "03:30 PM", "end": "04:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "03:30 PM", "end": "04:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "We", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "07",
+			"days": [
+				{ "day": "Su", "start": "05:00 PM", "end": "06:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Tu", "start": "05:00 PM", "end": "06:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "08",
+			"days": [
+				{ "day": "Mo", "start": "08:00 AM", "end": "09:20 AM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Sa", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "08:00 AM", "end": "09:20 AM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "09",
+			"days": [
+				{ "day": "Mo", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Sa", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "10",
+			"days": [
+				{ "day": "Mo", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Sa", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "11",
+			"days": [
+				{ "day": "Mo", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Th", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "12",
+			"days": [
+				{ "day": "Mo", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Th", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "13",
+			"days": [
+				{ "day": "Mo", "start": "03:30 PM", "end": "04:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "03:30 PM", "end": "04:50 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "14",
+			"days": [
+				{ "day": "Mo", "start": "05:00 PM", "end": "06:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "We", "start": "05:00 PM", "end": "06:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "15",
+			"days": [
+				{ "day": "Sa", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Su", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Th", "start": "09:30 AM", "end": "10:50 AM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "16",
+			"days": [
+				{ "day": "Sa", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Su", "start": "11:00 AM", "end": "01:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Th", "start": "11:00 AM", "end": "12:20 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "17",
+			"days": [
+				{ "day": "Sa", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Su", "start": "02:00 PM", "end": "04:50 PM", "room": "UB21005", "type": "Lab" },
+				{ "day": "Th", "start": "12:30 PM", "end": "01:50 PM", "room": "UB20204", "type": "Theory" }
+			]
+		},
+		{
+			"courseCode": "PHY112",
+			"program": "PHY",
+			"faculty": "TBA",
+			"credit": "3.0",
+			"section": "18",
+			"days": [
+				{ "day": "Sa", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Th", "start": "02:00 PM", "end": "03:20 PM", "room": "UB20204", "type": "Theory" },
+				{ "day": "Tu", "start": "08:00 AM", "end": "10:50 AM", "room": "UB21005", "type": "Lab" }
+			]
+		}
+	],
+	"freeLabs": [
+		"UB40203",
+		"UB41001",
+		"UB71103",
+		"UB40103",
+		"UB40101",
+		"UB41003",
+		"UB71101",
+		"UB41103",
+		"UB80103",
+		"UB80102",
+		"UB71102",
+		"UB41201",
+		"UB80403",
+		"UB80404",
+		"UB41101",
+		"UB41203",
+		"UB40403",
+		"UB50201",
+		"UB70304",
+		"UB41102",
+		"UB80101",
+		"UB41002",
+		"UB41202",
+		"UB70804",
+		"UB71309",
+		"UB80910",
+		"UB40401",
+		"UB50402",
+		"UB41301",
+		"UB50202",
+		"UB50403",
+		"UB50603",
+		"UB60809",
+		"UB60603",
+		"UB21005"
+	]
+}
