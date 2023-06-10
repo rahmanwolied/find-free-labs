@@ -20,6 +20,7 @@ async function update() {
 	const currentDay = currentDate.toLocaleString('en-US', { weekday: 'short' }).slice(0, 2);
 	const currentTime = currentDate.toLocaleString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true });
 	console.log(currentTime);
+	console.log(currentDay);
 	const arr = [];
 
 	schedule.forEach((course) => {
