@@ -34,7 +34,10 @@ async function update() {
 	// const freeLabs = ['wolied', 'likes', 'sex'];
 	const container = document.querySelector('.container');
 	container.innerHTML = '';
-	freeLabs.forEach((lab) => {
-		container.innerHTML += `<div class="lab">${lab}</div>`;
+	container.innerHTML = `Found ${freeLabs.length} free labs`;
+	let i = 0;
+	freeLabs.sort().forEach((lab) => {
+		container.innerHTML += `<div class="lab">${i}. ${lab}</div>`;
+		i++;
 	});
 }
